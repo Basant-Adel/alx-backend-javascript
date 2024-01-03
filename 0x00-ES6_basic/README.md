@@ -1,8 +1,8 @@
 # 0x00. ES6 Basics
 
 **`JavaScript`** **`ES6`**
-
-![ES6 Basics](https://github.com/Basant-Adel/alx-backend-javascript/0x00-ES6_basic/alx.png)
+<br><br>
+<img src="https://github.com/Basant-Adel/alx-backend-javascript/blob/3908ae1953e0003513f0ef559ad95343c830272d/0x00-ES6_basic/alx.png">
 
 ## Resources
 
