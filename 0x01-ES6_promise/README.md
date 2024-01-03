@@ -2,7 +2,7 @@
 
 **`JavaScript`** **`ES6`**
 <br><br>
-<img src="https://github.com/Basant-Adel/alx-backend-javascript/blob/3908ae1953e0003513f0ef559ad95343c830272d/0x00-ES6_basic/ES6.jpeg">
+<img src="https://github.com/Basant-Adel/alx-backend-javascript/blob/0d7d5d182b913688fdc28d0e3a546b1191c97caa/0x01-ES6_promise/ES6.jpeg">
 
 ## Resources
 
@@ -104,7 +104,8 @@ module.exports = {
 };
 ```
 
-**`utils.js`**
+**`utils.js`** 
+<br>
 Use when you get to tasks requiring `uploadPhoto` and `createUser`.
 
 ```bash
