@@ -3,7 +3,7 @@ import Car from './10-car';
 export default class EVCar extends Car {
   constructor(brand, motor, color, range) {
     super(brand, motor, color);
-    this.range = range;
+    this._range = range;
   }
 
   get range() {
@@ -14,8 +14,8 @@ export default class EVCar extends Car {
     this._range = value;
   }
 
+  // eslint-disable-next-line class-methods-use-this
   cloneCar() {
-    const Species = super.constructor[Symbol.species];
-    return new Species();
+    return new Car(); // Return an instance of Car, not EVCar
   }
 }
