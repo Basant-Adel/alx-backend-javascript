@@ -2,7 +2,7 @@
 
 **`OOP`**  **`JavaScript`**  **`ES6`** 
 <br><br>
-<img src="https://github.com/Basant-Adel/alx-backend-javascript/blob/0d7d5d182b913688fdc28d0e3a546b1191c97caa/0x01-ES6_promise/ES6.jpeg">
+<img src="https://github.com/Basant-Adel/alx-backend-javascript/blob/aad03ee564285626acda8bafb73e2ca7d0f06b77/0x02-ES6_classes/ES6class.jpeg">
 
 ## Resources
 
@@ -66,7 +66,7 @@ in your project directory:
 
 Add the files below to your project directory
 
-`**package.json**`
+**`package.json`**
 
 ```
 {
@@ -147,5 +147,5 @@ module.exports = {
 };
 ```
 
-## Finally…
+## Finally...😍🎯
 Don’t forget to run `npm install` from the terminal of your project folder to install all necessary project dependencies.
