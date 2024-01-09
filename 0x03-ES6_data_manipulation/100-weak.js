@@ -1,7 +1,7 @@
 const MAX_ENDPOINT_CALLS = 5;
 const endpointCalls = new WeakMap();
 
-export function queryAPI(endpoint) {
+export default function queryAPI(endpoint) {
   if (!endpointCalls.has(endpoint)) {
     endpointCalls.set(endpoint, 0);
   }
