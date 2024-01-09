@@ -2,7 +2,7 @@
 
 **`JavaScript`**  **`ES6`** 
 <br><br>
-<img src="https://github.com/Basant-Adel/alx-backend-javascript/blob/aad03ee564285626acda8bafb73e2ca7d0f06b77/0x02-ES6_classes/ES6class.jpeg">
+<img src="https://github.com/Basant-Adel/alx-backend-javascript/blob/71c9551219986ef554a6929dc774341d3747cbd3/0x03-ES6_data_manipulation/array.jpg">
 
 ## Resources
 
@@ -36,7 +36,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 ## Setup
 
-**Install NodeJS 12.11.x**
+### **Install NodeJS 12.11.x**
 (in your home directory):
 
 ```
