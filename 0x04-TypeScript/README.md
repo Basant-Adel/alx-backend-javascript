@@ -2,7 +2,7 @@
 
 **`JavaScript`** **`TypeScript`**
 <br><br>
-<img src="https://github.com/Basant-Adel/alx-backend-javascript/blob/71c9551219986ef554a6929dc774341d3747cbd3/0x03-ES6_data_manipulation/array.jpg">
+<img src="https://github.com/Basant-Adel/alx-backend-javascript/blob/a37e6276c89201ea2f5b0d1a4e4ddf30638deaa6/0x04-TypeScript/typescript.png">
 
 ## Resources
 
